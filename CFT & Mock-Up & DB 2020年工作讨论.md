@@ -18,11 +18,13 @@ CFT 图纸及质量情况完成情况如下图所示，不影响 CFT 2020 年的
 - 本月内完成 INS01/02 两套质量文件的提交，陈祖兰和陈国超负责；
 - 本年度完成剩余三套图纸的提交和批准，优先保证 CS1U ，陈国超负责；
 
-![enter description here](./images/1583481692484.png)
+![表 · CFT 图纸及质量文件完成情况（截止到 2020 年 3 月 6 日）](./images/1583481692484.png)
 
 # CFT 需求计划及 2020 年排产计划
 
-![enter description here](https://raw.githubusercontent.com/willwenwen/xiaoshujiang/master/1583481333159.png)
+CFT 共计 31 套，目前已完成 7 套 CFT,2020 年计划完成 8 套 CFT批量件及* 2 套 INS CFT *。
+
+![表 · CFT 需求计划及 2020 年排产计划（根据唐晓世和邹伟提供材料整理，截止到 2020 年 3 月 6 日）](https://raw.githubusercontent.com/willwenwen/xiaoshujiang/master/1583481333159.png)
 
 
 
